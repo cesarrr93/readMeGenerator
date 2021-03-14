@@ -1,8 +1,8 @@
 // Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-const choice = require('inquerer/lib;objects/choice');
-const choices = require('inquirer/lib/objects choices');
+const choice = require('inquirer/lib/objects/choice');
+const choices = require('inquirer/lib/objects/choices');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
 // Create an array of questions for user input
